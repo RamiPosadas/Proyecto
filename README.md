@@ -1,5 +1,7 @@
 Proyecto final
+
 Integrantes:
+
 1007200400201 Carlos Eduardo Ventura Alvarado  
 0801200112449 Cesar Eduardo Lagos Osorio  
 0810200100101 Jose David Mendez Rivera  
